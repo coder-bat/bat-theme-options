@@ -1,0 +1,48 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .setting-section {
+    padding: 20px 0;
+    font-size: 14px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.setting-section * {
+    margin-bottom: 0;
+}
+
+.setting-section h2 {
+    margin-bottom: 20px;
+}
+
+.setting-section input {
+    margin-left: 20px;
+    height: 33px;
+}
+
+.setting-section .sp-original-input-container {
+    top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px !important;
+}
+
+.nav-tab {
+    cursor: pointer;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content--textSettings {
+    display: block;
+}
+
+.sample-btn {
+    display: inline-block;
+    margin-top: 20px;
+    pointer-events: none;
+    margin-right: 20px;
+}
