@@ -1,4 +1,4 @@
-**Bat Theme Options**
+**Bat Theme Options**  
 Tags: custom theme options, theme options, custom plugin  
 Requires at least: 3.0.1  
 Tested up to: 5.7  
